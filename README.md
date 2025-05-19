@@ -36,12 +36,8 @@ The primary goal of this project is to understand the reasons behind product ret
 - Built a return risk scoring system to flag potential returns before shipping
 - Provided actionable insights for improving customer satisfaction and reducing return-related losses
 
-## 🗂 Project Structure
-📁 data/
-└── orders.csv
-└── returns.csv
-📁 notebooks/
-└── data_cleaning.ipynb
 └── logistic_regression_model.ipynb
+
 📁 dashboard/
+
 └── return_risk_dashboard.pbix
